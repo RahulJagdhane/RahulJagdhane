@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Rahul and I'm a Cybersecurity Enthusiast and Web Developer</p>
+<h1 align="left">My name is Rahul Jagdhane</h1>
 
 ###
 
