@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="left">About me</h1>
+<h1 align="left">I'm Rahul Jagdhane</h1>
 
 ###
 
-<h1 align="left">My name is Rahul Jagdhane</h1>
+<h2 align="left">About me</h2>
 
 ###
 
