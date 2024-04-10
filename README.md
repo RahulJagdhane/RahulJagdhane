@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the first line of code.<br>📚 I'm currently learning Python.<br>🎯 Goals: To conquer the digital universe, one commit at a time.<br>🎲 Fun fact: My keyboard is my most loyal companion in this epic coding journey. 🚀🦄</p>
+<p align="left">✨ Creating bugs since the first line of code.<br>🎯 Goals: To conquer the digital universe, one commit at a time.<br>🎲 Fun fact: My keyboard is my most loyal companion in this epic coding journey. 🚀🦄</p>
 
 ###
 
